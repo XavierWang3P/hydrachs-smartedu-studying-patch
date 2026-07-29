@@ -38,7 +38,7 @@
 
 1. 安装浏览器用户脚本管理器，例如 Tampermonkey 或 ScriptCat。
 2. 安装并启用 hydrachs 的 `国家智慧中小学刷课公开版` 脚本。
-3. 安装 [hydrachs-smartedu-studying-patch.js](https://raw.githubusercontent.com/XavierWang3P/hydrachs-smartedu-studying-patch/refs/heads/main/hydrachs-smartedu-studying-patch.js) 脚本，并启用。
+3. 安装 [hydrachs-smartedu-studying-patch.user.js](https://raw.githubusercontent.com/XavierWang3P/hydrachs-smartedu-studying-patch/refs/heads/main/hydrachs-smartedu-studying-patch.user.js) 脚本，并启用。
 4. 打开 [2026 年暑假研修课程](https://basic.smartedu.cn/training/dc6d78f2-bad8-4d09-b8da-0d758803dbe4) 页面。
 5. 点击 hydrachs 控制面板里的 `准备刷课`。脚本会等待 4 秒，刷新页面并进入视频学习页。
 6. 当前视频完成后，脚本会自动进入下一个白名单视频。当前课程全部完成后，脚本会跳转到下一个课程页面。
