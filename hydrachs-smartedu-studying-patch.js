@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         国家智慧教育平台小功能 Patch
+// @name         国家智慧教育平台功能 Patch
 // @namespace    http://tampermonkey.net/
 // @version      1.29
 // @description  自动跳过弱密码弹窗、密码框默认明文显示、自动勾选同意登录政策协议、自动展开指定课程章节、准备刷课后自动刷新并进入视频，播放完成后自动切换下一个视频并显示学习/学时进度
-// @author       Antigravity
+// @author       王虾虾
 // @match        https://auth.smartedu.cn/uias/login*
 // @match        https://basic.smartedu.cn/*
 // @match        https://www.smartedu.cn/*
@@ -16,6 +16,13 @@
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
+
+// License: MIT
+// Powered by Codex! Thanks for Hydrachs.
+// Copyright 2026 王虾虾.
+// 公众号: 鸟之言语
+// Blog: https://xavier.wang
+// GitHub: https://github.com/XavierWang3P/hydrachs-smartedu-studying-patch
 
 (function () {
     'use strict';
