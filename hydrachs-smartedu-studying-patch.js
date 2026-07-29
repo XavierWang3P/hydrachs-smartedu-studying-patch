@@ -6,13 +6,6 @@
 // @author       王虾虾
 // @match        https://auth.smartedu.cn/uias/login*
 // @match        https://basic.smartedu.cn/*
-// @match        https://www.smartedu.cn/*
-// @match        https://teacher.vocational.smartedu.cn/*
-// @match        https://core.teacher.vocational.smartedu.cn/*
-// @match        https://basic.smartedu.cn/*?*contentId=*
-// @match        https://www.smartedu.cn/*?*contentId=*
-// @match        https://teacher.vocational.smartedu.cn/*?*contentId=*
-// @match        https://core.teacher.vocational.smartedu.cn/*?*contentId=*
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
